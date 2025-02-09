@@ -1,2 +1,2 @@
 # Little-Lemon-App
-The Little Lemon app is a user-friendly mobile application created to improve the dining experience for customers of the Little Lemon restaurant. Developed as part of the Meta Coursera course.
+The Little Lemon app is a user-friendly mobile application designed to enhance the dining experience for customers of the Little Lemon restaurant. Developed as part of the Meta Coursera course, this app showcases key skills in mobile app development, including UI/UX design, navigation, and integration with backend systems. It provides a seamless platform for users to explore the restaurant's menu, make reservations, and stay updated on special offers.
